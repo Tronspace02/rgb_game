@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "example", "heroku"
+    "example",
+    "heroku"
   ],
   "author": "",
   "license": "ISC",
