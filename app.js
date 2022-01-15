@@ -14,6 +14,6 @@ app.get("/how-to-play", (req, res) => {
     res.render("ins");
 });
 
-app.listen(() => {
+app.listen(process.env.PORT, () => {
   console.log("server started on port 3000");
 });
